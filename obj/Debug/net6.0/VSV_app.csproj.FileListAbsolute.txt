@@ -1,0 +1,15 @@
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\bin\Debug\net6.0\VSV_app.exe
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\bin\Debug\net6.0\VSV_app.deps.json
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\bin\Debug\net6.0\VSV_app.runtimeconfig.json
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\bin\Debug\net6.0\VSV_app.dll
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\bin\Debug\net6.0\VSV_app.pdb
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\obj\Debug\net6.0\VSV_app.csproj.AssemblyReference.cache
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\obj\Debug\net6.0\VSV_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\obj\Debug\net6.0\VSV_app.AssemblyInfoInputs.cache
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\obj\Debug\net6.0\VSV_app.AssemblyInfo.cs
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\obj\Debug\net6.0\VSV_app.csproj.CoreCompileInputs.cache
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\obj\Debug\net6.0\VSV_app.dll
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\obj\Debug\net6.0\refint\VSV_app.dll
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\obj\Debug\net6.0\VSV_app.pdb
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\obj\Debug\net6.0\VSV_app.genruntimeconfig.cache
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_app\obj\Debug\net6.0\ref\VSV_app.dll
